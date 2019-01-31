@@ -1,0 +1,27 @@
+{
+  "name": "@regru/eslint-plugin-one-var",
+  "version": "1.0.0",
+  "description": "Eslint one-var rule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Makarychev Andrey <shiftmailbox@gmail.com>",
+  "license": "MIT",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regru/eslint-plugin-one-var.git"
+  },
+  "keywords": [
+    "eslint",
+    "one-var"
+  ],
+  "bugs": {
+    "url": "https://github.com/regru/eslint-plugin-one-var/issues"
+  },
+  "homepage": "https://github.com/regru/eslint-plugin-one-var#readme"
+}

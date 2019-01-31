@@ -1,0 +1,1 @@
+Fork of native eslint [one-var rule](https://github.com/eslint/eslint/blob/master/docs/rules/one-var.md) with implemented patch from @st-sloth
